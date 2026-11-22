@@ -79,3 +79,8 @@ Hidden files start with a dot. Use ls -a to see them.
 2>/dev/null throws away error messages — useful when find gets noisy.
 
 Never chmod 777. Ever.
+
+# Git Learning
+
+I am learning version control with Git.
+Git tracks changes to files and allows me to maintain project history.
