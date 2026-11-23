@@ -93,3 +93,4 @@ git add
 git commit
 git log
 git push
+GitHub is a remote hosting platform for Git repositories.
