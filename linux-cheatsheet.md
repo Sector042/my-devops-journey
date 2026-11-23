@@ -84,3 +84,12 @@ Never chmod 777. Ever.
 
 I am learning version control with Git.
 Git tracks changes to files and allows me to maintain project history.
+
+
+# Git Commands
+
+git status
+git add
+git commit
+git log
+git push
